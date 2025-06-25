@@ -9,9 +9,9 @@ This was for work with Incolmotos Yamaha in Colombia, we were tasked with improv
 ### Original
 
 <div style="display:inline;">
-<img style="width:48%" src="fusion_360/original_catalyzer_top_view.png">
-<img style="width:24.3%" src="fusion_360/original_catalyzer_full_view.png">
-<img style="width:24.1%" src="fusion_360/original_catalyzer_full_view_no_sleeve.png">
+<img style="width:48.6%" src="fusion_360/original_catalyzer_top_view.png">
+<img style="width:24.6%" src="fusion_360/original_catalyzer_full_view.png">
+<img style="width:24.4%" src="fusion_360/original_catalyzer_full_view_no_sleeve.png">
 </div>
 
 ### Original & Triangle, Hexagon, and Square Channel Alternatives
@@ -29,17 +29,17 @@ This was for work with Incolmotos Yamaha in Colombia, we were tasked with improv
 #### Original
 
 <div style="display:inline;">
-<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_3.png">
-<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_2.png">
-<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_1.png">
+<img style="width:32.5%" src="ansys/catalytic_converter/original/volumetric_inverse_section_3.png">
+<img style="width:32.5%" src="ansys/catalytic_converter/original/volumetric_inverse_section_2.png">
+<img style="width:32.5%" src="ansys/catalytic_converter/original/volumetric_inverse_section_1.png">
 </div>
 
 #### Triangular Channels (Best Option)
 
 <div style="display:inline;">
-<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_3.png">
-<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_2.png">
-<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_1.png">
+<img style="width:32.5%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_3.png">
+<img style="width:32.5%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_2.png">
+<img style="width:32.5%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_1.png">
 </div>
 
 ### Results
@@ -51,9 +51,9 @@ As can be seen, the triangular channels have much lower inlet, outlet, and cross
 These images are slightly confusing, especially the last 2, but they show particle paths at key sections inside the catalyzer, specifically from the exhaust into the catalyzer's channels. This view was chosen specifically because it shows how air particles interact with the channel's cross section, allowing to see how much they slow down, or if they get "stuck".
 
 <div style="display:inline;">
-<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_12_fluid_flow.jpg">
-<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_13_fluid_flow_at_intersection.png">
-<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_14_fluid_flow_at_intersection.png">
+<img style="width:32.5%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_12_fluid_flow.jpg">
+<img style="width:32.5%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_13_fluid_flow_at_intersection.png">
+<img style="width:32.5%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_14_fluid_flow_at_intersection.png">
 </div>
 
 #### Original - Pressure
@@ -64,44 +64,44 @@ These images are slightly confusing, especially the last 2, but they show partic
 <img style="width:41.75%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_4_transversal_pressure.png">
 <img style="width:28.51%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_6_inlet_pressure.png">
 <img style="width:28.4%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_8_inlet_and_outlet_pressure.jpg">
-<img style="width:38.4%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_3_inlet_and_outlet_pressures.png">
+<img style="width:38.3%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_3_inlet_and_outlet_pressures.png">
 </div>
-<img style="width:31.54%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_9_inlet_and_outlet_pressure.png">
-<img style="width:28.84%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_7_transversal_pressure.png">
+<img style="width:31.45%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_9_inlet_and_outlet_pressure.png">
+<img style="width:28.75%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_7_transversal_pressure.png">
 
 #### Original - Velocity
 
 <div style="display:inline;">
-<img style="width:41.9%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_5_transversal_velocity.png">
-<img style="width:28.55%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_10_inlet_and_outlet_velocity.jpg">
-<img style="width:28.55%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_11_inlet_and_outlet_velocity.png">
+<img style="width:41.65%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_5_transversal_velocity.png">
+<img style="width:28.4%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_10_inlet_and_outlet_velocity.jpg">
+<img style="width:28.4%" src="ansys/catalytic_converter/original/volumetric_inverse_section_simulation_11_inlet_and_outlet_velocity.png">
 </div>
 
 #### Triangles - Fluid Flow
 
 <div style="display:inline;">
-<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_12_fluid_flow.jpg">
-<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_13_fluid_flow_at_intersection.jpg">
-<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_14_fluid_flow_at_intersection.jpg">
+<img style="width:32.75%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_12_fluid_flow.jpg">
+<img style="width:32.75%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_13_fluid_flow_at_intersection.jpg">
+<img style="width:32.75%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_14_fluid_flow_at_intersection.jpg">
 </div>
 
 #### Triangles - Pressure
 
 <div style="display:inline;">
 <img style="width:48%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_1_reference_view.png">
-<img style="width:50.8%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_2_inlet_and_outlet_pressures.png">
-<img style="width:42.45%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_4_transversal_pressure.png">
-<img style="width:28.25%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_6_inlet_pressure.png">
-<img style="width:28.2%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_8_inlet_and_outlet_pressure.jpg">
-<img style="width:38%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_3_inlet_and_outlet_pressures.png">
+<img style="width:50.75%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_2_inlet_and_outlet_pressures.png">
+<img style="width:42.3%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_4_transversal_pressure.png">
+<img style="width:28.1%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_6_inlet_pressure.png">
+<img style="width:28.05%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_8_inlet_and_outlet_pressure.jpg">
+<img style="width:37.9%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_3_inlet_and_outlet_pressures.png">
 </div>
-<img style="width:30.4%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_9_inlet_and_outlet_pressure.png">
-<img style="width:30.4%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_7_transversal_pressure.png">
+<img style="width:30.25%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_9_inlet_and_outlet_pressure.png">
+<img style="width:30.3%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_7_transversal_pressure.png">
 
 #### Triangles - Velocity
 
 <div style="display:inline;">
-<img style="width:41.17%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_5_transversal_velocity.png">
-<img style="width:28.92%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_10_inlet_and_outlet_velocity.jpg">
-<img style="width:28.975%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_11_inlet_and_outlet_velocity.jpg">
+<img style="width:41%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_5_transversal_velocity.png">
+<img style="width:28.8%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_10_inlet_and_outlet_velocity.jpg">
+<img style="width:28.85%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_simulation_11_inlet_and_outlet_velocity.jpg">
 </div>
