@@ -9,7 +9,43 @@ This was for work with Incolmotos Yamaha in Colombia, we were tasked with improv
 ### Original
 
 <div style="display:inline;">
-<img src="fusion_360/original_catalyzer_top_view.png">
-<img src="fusion_360/original_catalyzer_full_view.png">
-<img src="fusion_360/original_catalyzer_full_view_no_sleeve.png">
+<img style="width:48%" src="fusion_360/original_catalyzer_top_view.png">
+<img style="width:24.3%" src="fusion_360/original_catalyzer_full_view.png">
+<img style="width:24.1%" src="fusion_360/original_catalyzer_full_view_no_sleeve.png">
 </div>
+
+### Original & Triangle, Hexagon, and Square Channel Alternatives
+<div style="display:inline;">
+<img style="width:49.5%" src="fusion_360/original_catalyzer_diagonal_view.png">
+<img style="width:49%" src="fusion_360/hexagons_catalyzer_diagonal_view.png">
+<img style="width:49.7%" src="fusion_360/triangles__catalyzer_diagonal_view.png">
+<img style="width:48.5%" src="fusion_360/squares_catalyzer_diagonal_view.png">
+</div>
+
+## Simulation
+
+### Setup
+
+#### Original
+
+<div style="display:inline;">
+<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_3.png">
+<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_2.png">
+<img style="width:32%" src="ansys/catalytic_converter/original/volumetric_inverse_section_1.png">
+</div>
+
+#### Triangular Channels (best option)
+
+<div style="display:inline;">
+<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_3.png">
+<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_2.png">
+<img style="width:32%" src="ansys/catalytic_converter/triangles/volumetric_inverse_section_1.png">
+</div>
+
+### Results
+
+#### Original
+
+
+
+#### Triangular Channels
